@@ -34,7 +34,7 @@ A **simple shooter game** built using Python’s `turtle` module.
 
 ## 📸 Screenshot
 
-(screenshot.png)
+![Game screenshot](screenshot.png)
 
 ---
 
